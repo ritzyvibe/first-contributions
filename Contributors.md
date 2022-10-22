@@ -116,6 +116,7 @@
 - [Ayush Shete](https://github.com/ayushete02)
 - [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
+- [Ritwika Das](www.linkedin.com/in/ritwika-das-1510a4207)
 -[Anya McDonald](https://github.com/anyahush)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [devzohaib](https://github.com/devzohaib)
@@ -4165,5 +4166,4 @@ first contributions - hanyang univ.
 - [Dicka Ismaji](https://github.com/dicka88)
 - [Goutam-Kumar](https://github.com/goutam-kumar1)
 - [Saumya Singh](https://twitter.com/saumya1singh)
-- [Mylena Angélica](https://github.com/Mylena-angelica)
 
