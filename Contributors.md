@@ -116,6 +116,7 @@
 - [Ayush Shete](https://github.com/ayushete02)
 - [Monazza Qadeer Khan] (https://github.com/monazza-qk92)
 - [Rishabh Gist](https://github.com/rishabhgist)
+- [Ritwika Das](https://github.com/ritzyvibe)
 -[Anya McDonald](https://github.com/anyahush)
 - [Kartik Kumar](https://github.com/yellowterrum)
 - [devzohaib](https://github.com/devzohaib)
